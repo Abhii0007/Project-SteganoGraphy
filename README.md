@@ -2,6 +2,7 @@
 
 	Steganography is a technique use for hiding or encoding a secret information in an image or music, file.
 
+![App Screenshot](images/screenshot_main.png)
 Steganography Tool:-
 
 A simple and user-friendly Steganography application built with Python and PySide6. This program allows users to hide secret 	messages within image files (encoding) and retrieve hidden messages from encoded images (decoding).
